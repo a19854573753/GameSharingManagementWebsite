@@ -4,7 +4,7 @@
 
 # 320.GameSharingManagementWebsite
 
-<p>V：bishebao888888(sql文件)</p>
+<p>抠群: 983063232(sql文件)</p>
 <p>抠: 206157502(sql文件)</p>
 
 <p><h1 align="center">320.游戏分享管理网站</h1></p>
